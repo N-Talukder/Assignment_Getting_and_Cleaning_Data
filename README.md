@@ -1,1 +1,3 @@
 # Assignment_Getting_and_Cleaning_Data
+
+The script file contains code for both the data files' generation. The analysis steps are described using comments inside the file. The analysis steps are file reading, combining data, extraction of a larger data set "Extracted_data_set", extracting some values for mean calculation and creating another tidy data set named "tidy_data_set". The two files that are generated using this script files are Extracted_data_set  containing 10,299 entries spread across 81 total columns and tidy_data_set, containing 180 entries spread across 81 total columns.
